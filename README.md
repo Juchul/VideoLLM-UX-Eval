@@ -19,7 +19,7 @@ All sensitive information has been removed or masked.
 ---
 
 ## ✨ 1. Repository Structure
-
+<pre>
 VideoLLM-UX-Eval/
 ├── input/
 │ └── AndarVideo.mp4
@@ -40,7 +40,7 @@ VideoLLM-UX-Eval/
 │
 ├── LICENSE
 └── README.md
-
+</pre>
 ---
 
 ## 🔧 2. Requirements
