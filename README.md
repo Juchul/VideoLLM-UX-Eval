@@ -59,7 +59,7 @@ Google Colab 에서 수행해야 하기 때문에 구글계정과 구글 드라�
 - 구글 드라이브 사용 권한 획득
 - 구글 드라이브 파일 경로 수정   
 - !pip install -q -U google-generativeai 실행
-- api 실행 하면 순차적으로 json 파일 생성 (10분 이상 소요 ) 
+- api 실행 하면 순차적으로 json 파일 생성   
 
 ### Step 2: Merge & Deduplicate
 - output 파일 설정  "dyn_merged_breakdowns.json" 
